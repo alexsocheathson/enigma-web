@@ -1,3 +1,13 @@
+.whiteText{
+  color: #eee;
+}
+
+.dev{
+  height: 150px;
+  clear: both;
+  
+}
+
 .text-bold {
   font-weight: 700;
 }
