@@ -1,4 +1,4 @@
-#Project Page for Enigma Project
+Project Page for Enigma Project
 
 Credits
 ---------
